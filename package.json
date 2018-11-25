@@ -10,7 +10,6 @@
     "Nicholas Hwang <nick.joosung.hwang@gmail.com>"
   ],
   "scripts": {
-    "install": "bower install",
     "build": "gulp build"
   },
   "license": "MIT",
